@@ -31,7 +31,7 @@
     <string name="backup_confirm_overwrite_notice">Папка уже существует, перезаписать?</string>
     <string name="contitue">Продолжить</string>
     <string name="sdcard_removed">SD карта извлечена!</string>
-    <string name="sdcard_is_full">SD карта заполнена!</string>
+    <string name="sdcard_is_full">SD карта заполена!</string>
     <string name="backup_result">Результат бэкапа:</string>
     <string name="restore_result">Результат восстановления:</string>
     <string name="result_success">Готово</string>
