@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="app_ops_labels">
+        <item>Местоположение</item>
+        <item>Местоположение</item>
+        <item>Местоположение</item>
+        <item>Вибросигнал</item>
+        <item>Считывать данные контактов</item>
+        <item>Изменение контактов</item>
+        <item>Просмотр списка вызовов</item>
+        <item>Изменение списка вызовов</item>
+        <item>Считывать данные календаря</item>
+        <item>Изменение календаря</item>
+        <item>Местоположение</item>
+        <item>Разместить уведомление</item>
+        <item>Местоположение</item>
+        <item>Позвонить</item>
+        <item>Получение SMS/MMS</item>
+        <item>Отправка SMS/MMS</item>
+        <item>Получение SMS/MMS</item>
+        <item>Получение SMS/MMS</item>
+        <item>Получение SMS/MMS</item>
+        <item>Получение SMS/MMS</item>
+        <item>Отправка SMS/MMS</item>
+        <item>Получение SMS/MMS</item>
+        <item>Отправка SMS/MMS</item>
+        <item>Изменение настроек</item>
+        <item>Отображать поверх других элементов</item>
+        <item>Доступ к уведомлениям</item>
+        <item>Камера</item>
+        <item>Записать аудио</item>
+        <item>Воспроизвести аудио</item>
+        <item>Считать из буфера обмена</item>
+        <item>Изменить буфер обмена</item>
+        <item>Управление Wi-Fi</item>
+        <item>Управление Bluetooth</item>
+        <item>Управление мобильным интернетом</item>
+        <item>Отправка MMS</item>
+        <item>Чтение MMS</item>
+        <item>Запись MMS</item>
+     </string-array>
+     <string-array name="emailAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Создать</item>
+     </string-array>
+     <string-array name="imAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Создать</item>
+     </string-array>
+     <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+     </string-array>
+     <integer-array name="maps_starting_lat_lng">
+        <item>55750449</item>
+        <item>37621136</item>
+     </integer-array>
+     <integer-array name="maps_starting_zoom">
+        <item>2</item>
+     </integer-array>
+     <string-array name="organizationTypes">
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Создать</item>
+     </string-array>
+     <string-array name="phoneTypes">
+        <item>Домашний</item>
+        <item>Мобильный</item>
+        <item>Рабочий</item>
+        <item>Рабочий факс</item>
+        <item>Домашний факс</item>
+        <item>Пейджер</item>
+        <item>Другой</item>
+        <item>Создать</item>
+     </string-array>
+     <string-array name="postalAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Создать</item>
+     </string-array>
+</resources>
