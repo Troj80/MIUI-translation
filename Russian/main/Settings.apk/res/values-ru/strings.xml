@@ -427,7 +427,7 @@
     <string name="bluetooth_profile_pan">Интернет доступ</string>
     <string name="bluetooth_profile_pan_nap">Раздача интернета</string>
     <string name="bluetooth_profile_sap">SIM доступ</string>
-    <string name="bluetooth_profile_dun">Dial-up додступ к сети</string>
+    <string name="bluetooth_profile_dun">Dial-up доступ к сети</string>
     <string name="bluetooth_disconnect_a2dp_profile">%1$s будет отключено от мультимедийного аудиодиоустройства.</string>
     <string name="bluetooth_disconnect_headset_profile">%1$s будет отключено от гарнитуры.</string>
     <string name="bluetooth_disconnect_hid_profile">%1$s будет отключено от устройства ввода.</string>
@@ -1040,7 +1040,7 @@
     <string name="settings_license_activity_loading">Загрузка…</string>
     <string name="settings_safetylegal_title">Сведения о безопасности</string>
     <string name="settings_safetylegal_activity_title">Сведения о безопасности</string>
-    <string name="settings_safetylegal_activity_unreachable">Устройство не подключено к Интернету. Чтобы просмотреть эту информацию, откройте страницу %s на любом компьютере с интернет-доступом.</string>
+    <string name="settings_safetylegal_activity_unreachable">Невозможно подключиться к сети. Перейдите по ссылке %s с любого устройства, подключенного к Интернету.</string>
     <string name="settings_safetylegal_activity_loading">Загрузка…</string>
     <string name="lockpassword_choose_your_password_header">Придумайте пароль</string>
     <string name="lockpassword_choose_your_pattern_header">Создайте графический ключ</string>
@@ -2212,7 +2212,7 @@
     <string name="sms_delivered_sound_dialog_title">Выберите звук доставленного SMS</string>
     <string name="haptic_feedback_level">Уровень вибрации</string>
     <string name="privacy_protect_title">Настройка приватности</string>
-    <string name="privacy_mode_enable_title">Режим гостя</string>
+    <string name="privacy_mode_enable_title">Режим \"Гость\"</string>
     <string name="privacy_mode_enable_sum">Скрыть заметки, фото, журнал вызовов для защиты приватности.</string>
     <string name="ac_enable_title">Разрешения</string>
     <string name="ac_set_apps_title">Защита приложений</string>
@@ -2238,7 +2238,7 @@
     <string name="touch_sensitive_turn_off_confirm">ОК</string>
     <string name="touch_sensitive_turn_off_cancel">Отмена</string>
 	<string name="screen_never_timeout_title">Никогда</string>
-    <string name="screen_on_proximity_sensor_title">Предотвращение ошибок</string>
+    <string name="screen_on_proximity_sensor_title">Предотвращение случайных нажатий</string>
     <string name="screen_on_proximity_sensor_summary">Предотвращение случайных нажатий пока телефон находится в кармане</string>
     <string name="preferred_launcher_title">Предпочитаемый лаунчер</string>
     <string name="preferred_launcher_warning_title">Замена стандартного лаунчера</string>
@@ -3528,7 +3528,7 @@ Android File Transfer
     <string name="fw_import_whitelist_confirm">Добавить выбранные номера (%d) в белый список?</string>
     <string name="fw_blacklist_hint">Вызовы и сообщения будут заблокированы по умолчанию</string>
     <string name="fw_whitelist_hint">Вызовы и сообщения не будут заблокированы по умолчанию</string>
-    <string name="fw_no_effect">Режим Гостя отключен. Включить сейчас?</string>
+    <string name="fw_no_effect">Режим \"Гость\" отключен. Включить сейчас?</string>
     <string name="fw_call_muted">Вызов без уведомления</string>
     <string name="fw_call_rejected">Вызов переадресован</string>
     <string name="fw_call_imported">Импорт журнала вызовов</string>
@@ -3721,7 +3721,7 @@ Android File Transfer
     <string name="alert_show_screensaver_when_not_charging_title">Предупреждение</string>
     <string name="alert_show_screensaver_when_not_charging_msg">Батарея будет садиться гораздо быстрее во время показа заставки, если зарядка не подключена. \nОтключить этот пункт?</string>
 	<string name="cleaner_support_hints">Поддержка: Clean Master</string>
-	<string name="preferred_application_title">По умолчанию: %s</string>
+	<string name="preferred_application_title">Заменить приложение по умолчанию?</string>
     <string name="preferred_application_warning_title">Замена приложения \"%s\"</string>
     <string name="preferred_application_warning_message">Замена стандартного приложения \"%1$s\" может увеличить потребление энергии, снизить скорость работы устройства и подвергнуть систему риску. \nРекомендуется использовать стандартное приложение \"%2$s\".</string>
     <string name="preferred_application_warning_replace">Заменить</string>
@@ -4322,7 +4322,7 @@ Android File Transfer
     <string name="status_bar_screen_key_home">Клавиша \"Домой\"</string>
     <string name="status_bar_screen_key_recent_apps">Клавиша недавних приложений</string>
     <string name="status_bar_screen_key_back">Клавиша \"Назад\"</string>
-	<string name="preferred_application_warning_use_system">Использовать %s</string>
+	<string name="preferred_application_warning_use_system">Отмена</string>
     <string name="preferred_sms_warning_message">При использовании приложения \"%1$s\" по умолчанию для сообщений может взыматься дополнительная оплата.</string>
     <string name="preferred_sms_warning_use_system">Отмена</string>
     <string name="preferred_sms_settings">Это приложение будет установлено по умолчанию для создания и чтения сообщений.</string>
