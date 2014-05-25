@@ -1610,7 +1610,7 @@
     <string name="lockscreen_unknown_song">Неизвестная песня</string>
     <string name="lockscreen_unknown_singer">Неизвестный исполнитель</string>
     <string name="private_num">Приватный номер</string>
-    <string name="payphone">Платный телефон</string>
+    <string name="payphone">Телефон-автомат</string>
     <string name="enquire_nexttime_checkbox">Больше не спрашивать</string>
     <string name="keyguard_password_enter_password_code_pin">Введите цифры для разблокировки</string>
     <string name="sms_dialog_look">Вид</string>
@@ -1674,7 +1674,7 @@
     <string name="sim_unavailable">SIM-карта отсутствует</string>
     <string name="sim_locked">SIM-карта заблокирована</string>
     <string name="sim_not_ready">SIM-карта не готова. Попробуйте позже.</string>
-    <string name="sim_in_airplane_mode">Пожалуйста, отключить режим полета.</string>
+    <string name="sim_in_airplane_mode">Пожалуйста, отключите режим \"В самолете\"</string>
     <string name="volume_warning_message">Прослушивание музыки на большой громкости может повлиять на ваш слух.</string>
     <string name="resolver_guide_title">Настройки по умолчанию</string>
 	<string name="permgrouplab_screenlock">Экран блокировки</string>
