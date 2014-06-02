@@ -249,7 +249,7 @@
 	<string name="clear_search_history">Очистить историю</string>
 	<string name="bottom_bar_tabs_long_click_up_tip_txt">Сдвиньте для закрытия</string>
 	<string name="bottom_bar_tabs_long_click_down_tip_txt">Сдвиньте вниз для закрытия</string>
-	<string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Все вкладки закрыты</string>
+	<string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Все вкладки уже закрыты</string>
 	<string name="bookmark_folder_needs_title">Необходимо ввести имя папки</string>	
 	<string name="multi_select_title">Выбрано: %1$s</string>
 	<string name="name">Ярлык</string>
@@ -787,9 +787,7 @@
     <string name="webview_js_dialog_before_unload_title">Подтверждение перехода</string>
     <string name="webview_js_dialog_before_unload_positive_button">Покинуть страницу</string>
     <string name="webview_js_dialog_before_unload_negative_button">Остаться на странице</string>
-    <string name="webview_js_dialog_before_unload">"%s
-
-Покинуть эту страницу?"</string>
+    <string name="webview_js_dialog_before_unload">%s \n\nПокинуть эту страницу?</string>
     <string name="webview_ok">ОК</string>
     <string name="webview_cancel">Отмена</string>
     <string name="webview_js_dialog_title">Страница \"%s\" отвечает:</string>
@@ -804,4 +802,8 @@
 	<string name="ssl_certificate">Сертификат безопасности</string>
 	<string name="ssl_certificate_is_valid">Данный сертификат действителен</string>
 	<string name="pref_content_cloud_speedup">Облачное ускорение</string>
+	<string name="snapshot_successed">Страница успешно сохранена для чтения в автономном режиме</string>
+	<string name="dont_remind_again">Запомнить выбор</string>
+	<string name="use_cellular_network_alert_message">Сеть Wi-Fi недоступна, использовать мобильный интернет?</string>
+	<string name="use_cellular_network_alert_title">Предупреждение</string>
 </resources>
