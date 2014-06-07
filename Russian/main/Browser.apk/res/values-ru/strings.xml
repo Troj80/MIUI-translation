@@ -37,7 +37,7 @@
 	<string name="add_to_other_folder_menu_option">Другая папка</string>
 	<string name="add_xiaomi_account_warning">Пожалуйста, войдите в аккаунт Xiaomi</string>
 	<string name="added_to_bookmarks">Добавлено в закладки</string>
-	<string name="alert_tips">Этот сайт может содержать вредоносные ресурсы, будьте осторожны!</string>
+	<string name="alert_tips">Этот сайт может содержать вредоносные ресурсы</string>
 	<string name="allow">Разрешить</string>
 	<string name="app_new_version">Загрузка приложения завершена</string>
 	<string name="app_update_install">Загрузка завершена. Обновление готово к установке.</string>
@@ -103,7 +103,7 @@
 	<string name="clear_history_group">Очистить всю историю (%s)</string>
 	<string name="clip_dialog_title">Открыть скопированную ссылку?</string>
 	<string name="close_all_tab_alert_message">Закрыть все вкладки?</string>
-	<string name="close_all_tab_alert_title">Подтверждение закрытия</string>
+	<string name="close_all_tab_alert_title">Подтверждение</string>
 	<string name="containing_folder">Добавить в</string>
 	<string name="contextheader_folder_bookmarkcount">Закладок: %d</string>
 	<string name="contextheader_folder_empty">Папка пуста</string>
@@ -124,7 +124,7 @@
 	<string name="contextmenu_view_image">Просмотр изображения</string>
 	<string name="copy_link">Копировать</string>
 	<string name="copy_page_url">Скопировать URL страницы</string>
-	<string name="crash_recovcery_message">Браузер был завершен с ошибкой. Вы хотите восстановить последнюю сессию?</string>
+	<string name="crash_recovcery_message">Браузер был закрыт с ошибкой. Вы хотите восстановить последнюю сессию?</string>
 	<string name="create_shortcut_bookmark">Ярлык на рабочий стол</string>
 	<string name="current_page">"на "</string>
 	<string name="defaultBookmarksUpButton">Закладки</string>
@@ -806,4 +806,13 @@
 	<string name="dont_remind_again">Запомнить выбор</string>
 	<string name="use_cellular_network_alert_message">Сеть Wi-Fi недоступна, использовать мобильный интернет?</string>
 	<string name="use_cellular_network_alert_title">Предупреждение</string>
+    <string name="date_picker_dialog_other_button_label">Прочее</string>
+    <string name="copy_to_clipboard_failure_message">Не удалось скопировать</string>
+    <string name="miuichromium_error_page_title">Не удалось найти страницу</string>
+    <string name="miuichromium_error_page_reason_network">Показать URL</string>
+    <string name="miuichromium_error_page_mobile">Мобильная сеть</string>
+    <string name="miuichromium_error_page_wlan">Настройки Wi-Fi</string>
+    <string name="miuichromium_error_page_reason_server">Браузер не может загрузить страницу</string>
+    <string name="miuichromium_error_page_reload">Обновить</string>
+    <string name="miuichromium_error_page_url">Показать URL страницы</string>
 </resources>

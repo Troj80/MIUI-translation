@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Синхронизация Xiaomi</string>
     <string name="sync_item_sms_title">Синхронизация сообщений</string>
-    <string name="sync_item_sms_summary">Извлечение сертификата</string>
+    <string name="sync_item_sms_summary">Синхронизация сообщений между устройствами</string>
     <string name="sub_sync_item_sms_title_wifi_only">MMS только по Wi-Fi</string>
     <string name="sub_sync_item_sms_summary">Сокращает передачу данных по сети</string>
     <string name="pref_title_sync_contacts_title">Синхронизация контактов</string>
@@ -23,7 +23,7 @@
     <string name="send_sms_for_sync_title">Сервис активации не запущен</string>
     <string name="send_sms_for_sync_notice">Для активации нужно отправить SMS. За это может взиматься дополнительная плата.</string>
     <string name="activate">Активация</string>
-    <string name="activate_fail_notification_title">Повтор активации служб Xiaomi</string>
+    <string name="activate_fail_notification_title">Повторная активации служб Xiaomi</string>
     <string name="sim_changed_reactivate_notice">Текущая SIM карта не активирована. Для активации нужно отправить SMS. За это может взиматься дополнительная плата.</string>
     <string name="sim_changed_reactivate_int_notice">Текущая SIM карта не активирована. Для активации нужно отправить SMS. За это может взиматься дополнительная плата.</string>
     <string name="no_sim">SIM карта не обнаружена.</string>

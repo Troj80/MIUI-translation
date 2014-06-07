@@ -76,7 +76,8 @@
     <string name="accessibility_no_phone">Нет сигнала сети.</string>
     <string name="accessibility_phone_one_bar">Плохой сигнал сети.</string>
     <string name="accessibility_phone_two_bars">Нормальный сигнал сети.</string>
-    <string name="accessibility_phone_three_bars">Хороший сигнал сети.</string>
+    <string name="accessibility_phone_three_bars">Средний сигнал сети.</string>
+    <string name="accessibility_phone_four_bars">Хороший сигнал сети.</string>
     <string name="accessibility_phone_signal_full">Отличный сигнал сети.</string>
     <string name="accessibility_no_data">Нет сигнала передачи данных.</string>
     <string name="accessibility_data_one_bar">Плохой сигнал передачи данных.</string>
@@ -282,7 +283,7 @@
     <string name="camera_key_action_shortcut_title">Ссылка</string>
     <string name="camera_key_action_toggle_title">Запуск переключателя</string>
     <string name="camera_key_action_app_title">Открыть приложение</string>
-    <string name="camera_key_action_shortcut_home">Вернуться на домашний экран</string>
+    <string name="camera_key_action_shortcut_home">Вернуться на рабочий стол</string>
     <string name="camera_key_action_shortcut_screenshot">Скриншот</string>
     <string name="camera_key_action_shortcut_search">Поиск</string>
     <string name="camera_key_action_shortcut_call">Вызов</string>
@@ -357,4 +358,6 @@
     <string name="settings_advanced">Дополнительные настройки</string>
     <string name="accessibility_search_light">Поиск</string>
     <string name="accessibility_camera_button">Камера</string>
+    <string name="call_status_ringing">Вызов</string>
+    <string name="reject_call">Отклонить вызов</string>
 </resources>

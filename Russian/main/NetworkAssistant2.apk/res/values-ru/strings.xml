@@ -171,7 +171,7 @@
     <string name="traffic_correction_start_correction_failed">Ошибка запроса. Проверьте настройки оператора.</string>
     <string name="traffic_correction_success">Трафик обновлен</string>
     <string name="traffic_correction_failed">Не удается получить информацию о трафике</string>
-	<string name="network_assistant_upgraded_title">Предел трафика не установлен</string>
+	<string name="network_assistant_upgraded_title">Обновление завершено</string>
     <string name="network_assistant_upgraded_body">Нажмите для настройки трафика</string>
 	<string name="pref_new_installed_preconfig_title">Настройки для новых приложений</string>
 	<string name="main_alert_message_slot_no_data_connection">Слот SIM карты не поддерживает доступ в интернет</string>

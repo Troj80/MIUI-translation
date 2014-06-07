@@ -3,7 +3,7 @@
     <string name="app_name">Менеджер аккаунтов Xiaomi</string>
     <string name="show_password">Показать пароль</string>
     <string name="account">Аккаунт</string>
-    <string name="account_hint_text">E-mail/Номер телефона</string>
+    <string name="account_hint_text">Email/Номер телефона</string>
     <string name="phone_num_hint_text">Номер телефона</string>
     <string name="login">Войти</string>
     <string name="verify">Проверка</string>
@@ -25,9 +25,9 @@
     <string name="micloud_error_illegal_pwd">Неверный пароль</string>
     <string name="micloud_error_empty_captcha_code">Введите код с картинки</string>
     <string name="micloud_error_empty_vcode">Введите проверочный код</string>
-    <string name="micloud_email">Адрес e-mail</string>
+    <string name="micloud_email">Адрес email</string>
     <string name="reg_type_phone">Регистрация по телефону (Рекомендуется)</string>
-    <string name="reg_type_email">Регистрация по e-mail</string>
+    <string name="reg_type_email">Регистрация по email</string>
     <string name="micloud_input_password_prompt">Введите пароль</string>
     <string name="micloud_password_confirm_hint">Подтвердите пароль</string>
     <string name="micloud_password_req_notice">8~16 символов, содержащие буквы и цифры, чувствительные к регистру.</string>

@@ -323,7 +323,7 @@
 	<string name="perm_auto_backup">Автобэкап</string>
 	<string name="perm_payment_dspt">Разрешить приложению оплату через сервисы Xiaomi</string>
 	<string name="perm_payment_lab">Сервис оплаты Xiaomi</string>
-	<string name="perm_send_push_dspt">Позволяет отправлять push-сообщения Xiaomi</string>
+	<string name="perm_send_push_dspt">Позволяет отправлять Xiaomi push-сообщения</string>
 	<string name="perm_send_push_lab">Отправка push-сообщений</string>
 	<string name="perm_tigger_toggle_dspt">Разрешает приложениям управлять переключателями в статусбаре</string>
 	<string name="perm_tigger_toggle_lab">Управление переключателями в статусбаре</string>
@@ -370,10 +370,10 @@
 	<string name="the_spring_festival">Китайский Новый год</string>
 	<string name="unknown">Неизвестный номер</string>
 	<string name="unknown_caller">Неизвестный номер</string>
-	<string name="user_agreement1">"Вы будете использовать системы и Интернет услуги, предоставляемые Xiaomi, пожалуйста, прочитайте "</string>
-	<string name="user_agreement2">Пользовательское соглашение</string>
+	<string name="user_agreement1">Нажимая \"ОК\", вы соглашаетесь с условиями Xiaomi, изложенными в</string>
+	<string name="user_agreement2">" Пользовательском соглашении"</string>
 	<string name="user_agreement3">" и "</string>
-	<string name="user_agreement4">Политику конфиденциальности</string>
+	<string name="user_agreement4">"Политике конфиденциальности."</string>
 	<string name="user_agreement5">,нажав \"ОК\", вы соглашаетесь и готовы соблюдать вышесказаное. В случае несогласия нажмите \"Отмена\" для выхода.</string>
 	<string name="v5_deselect_all">Снять выбор</string>
 	<string name="v5_edit_mode_title_empty">Выбрано: 0</string>

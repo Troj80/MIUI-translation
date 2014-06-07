@@ -279,7 +279,7 @@
     <string name="header_text_cleaning">Очистка…</string>
     <string name="header_text_cleaned">Готово</string>
     <string name="waiting_for_cleaning">Ожидание…</string>
-    <string name="item_name">Нет имени</string>
+    <string name="item_name">Без имени</string>
     <string name="waiting_for_scanning">Ожидание…</string>
     <string name="temp_file_title">Временные файлы</string>
     <string name="thumbnail_title">Эскизы</string>

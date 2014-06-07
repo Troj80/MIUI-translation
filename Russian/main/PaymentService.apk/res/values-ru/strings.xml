@@ -28,7 +28,7 @@
 	<string name="bankcall_saved_card_info">%1$s - заканчивается %2$s</string>
 	<string name="bankcall_xiaomi_company">Корпорация Xiaomi</string>
 	<string name="btn_back">Назад</string>
-	<string name="btn_call">Позвонить</string>
+	<string name="btn_call">Вызов</string>
 	<string name="btn_count_down_auto">Запрос через %1$s сек.</string>
 	<string name="btn_delete_record">Удалить запись</string>
 	<string name="btn_mili_center_recharge">Пополнить баланс</string>
