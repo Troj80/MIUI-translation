@@ -129,7 +129,7 @@
     <string name="traffic_setting_fragment_brand">Бренд</string>
     <string name="traffic_setting_fragment_template">Шаблон сообщения</string>
     <string name="traffic_setting_fragment_loading_text">Получение информации сети…</string>
-    <string name="traffic_setting_fragment_no_network">Ошибка подключения</string>
+    <string name="traffic_setting_fragment_no_network">Не удалось подключиться к сети</string>
     <string name="traffic_setting_fragment_get_template_falure">Ошибка обновления. Проверьте состояние сети.</string>
     <string name="traffic_setting_fragment_send_num">Номер телефона оператора</string>
     <string name="traffic_setting_fragment_sms_content">Сообщение</string>

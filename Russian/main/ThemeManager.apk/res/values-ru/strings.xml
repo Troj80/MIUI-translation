@@ -75,7 +75,7 @@
 	<string name="wallpaper_decoded_error">Ошибка загрузки</string>
 	<string name="close">Закрыть</string>
 	<string name="download_success">Загрузка завершена</string>
-    <string name="basic_info">Основная информация</string>
+    <string name="basic_info">Информация</string>
     <string name="account_info">Мой аккаунт</string>
     <string name="payment_info">Центр MiCredits</string>
 	<string name="theme_importing">Импорт тем…</string>

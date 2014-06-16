@@ -31,7 +31,7 @@
     <string name="apply_unable_to_reboot_toast">Не удается перезагрузиться в Recovery</string>
     <string name="checking_for_updates">Проверка обновлений…</string>
     <string name="downloading_description">Загрузка…</string>
-    <string name="sdcard_is_not_present_dialog_body">Не удается найти SD карту.</string>
+    <string name="sdcard_is_not_present_dialog_body">Убедитесь, что вы подключили SD карту.</string>
     <string name="sdcard_is_not_present_dialog_title">SD карта не найдена</string>
     <string name="sdcard_has_no_space_dialog_body">Недостаточно места на SD карте.</string>
     <string name="sdcard_has_no_space_dialog_title">Недостаточно места</string>
@@ -46,7 +46,7 @@
     <string name="dialog_ok">ОК</string>
     <string name="verify_and_apply_dialog_title">Проверка целостности файла…</string>
     <string name="verify_and_apply_dialog_message">Проверка суммы MD5…</string>
-    <string name="apply_existing_update_md5error_title">Сумма MD5 не совпадает…</string>
+    <string name="apply_existing_update_md5error_title">Сумма MD5 не совпадает</string>
     <string name="file_not_found_error_message">Запрошенный файл не найден на сервере.</string>
     <string name="apply_upload_info_message_manually">После перезагрузки, вы можете зайти в Recovery для применения обновления %s. Если вы хотите создать резервную копию, то ее необходимо выполнить до обновления системы.</string>
     <string name="apply_upload_info_message">Нажатие \"Обновить\" автоматически перезагружает устройство после применения обновления.</string>
@@ -114,9 +114,9 @@
     <string name="share">Поделиться</string>
     <string name="share_update_content_unsign">Я обновил MIUI до %1$s! Подробный список изменений на %2$s</string>
     <string name="share_update_content_sign">Я обновил MIUI до %1$s! Мой статус обновления %2$s. Подробный список изменений на %3$s</string>
-    <string name="share_sina">Отправить через Sina Weibo</string>
+    <string name="share_sina">Отправить в Sina Weibo</string>
     <string name="install_sina">Установить Sina Weibo</string>
-    <string name="share_qq">Отправить через Tencent Weibo</string>
+    <string name="share_qq">Отправить в Tencent Weibo</string>
     <string name="install_qq">Установить Tencent Weibo</string>
     <string name="upgrade_kernel">Текущая версия ядра требует обновления</string>
     <string name="upgrade_kernel_msg">Текущая версия ядра не совместима с MIUI. Обновите ядро вручную. Подробнее:\n</string>
