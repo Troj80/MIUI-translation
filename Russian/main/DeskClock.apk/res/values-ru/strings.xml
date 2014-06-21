@@ -42,7 +42,7 @@
     <string name="snooze_duration_title">Интервал повтора</string>
     <string name="auto_silence_title">Автовыключение</string>
     <string name="auto_silence_summary">Отключение будильника через %d мин.</string>
-    <string name="auto_silence_never">Выкл</string>
+    <string name="auto_silence_never">Никогда</string>
 	<string name="done">Готово</string>
 	<string name="revert">Отмена</string>
 	<string name="delete">Удалить</string>
@@ -179,7 +179,7 @@
 	<string name="resource_delete_confirm">Удалить эти ресурсы?</string>
 	<string name="all_resources">Все</string>
 	<string name="resource_default_name">Ресурсы</string>
-	<string name="resource_detail">Свойства</string>
+	<string name="resource_detail">Информация</string>
 	<string name="resource_delete_all">Удалить выбранные ресурсы (%1$d шт.)?</string>
 	<string name="resource_can_not_selected">Невозможно выбрать: %1$s</string>
 	<string name="resource_system_title">Системные ресурсы</string>

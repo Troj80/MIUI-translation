@@ -45,7 +45,7 @@
     <string name="category_favorite">Избранное</string>
     <string name="category_bluetooth">Bluetooth</string>
     <string name="category_log">Лог</string>
-    <string name="operation_rename_message">Введите название</string>
+    <string name="operation_rename_message">Название папки</string>
     <string name="operation_create_folder_message">Название папки</string>
     <string name="operation_delete_confirm_message">Удалить</string>
     <string name="operation_delete_confirm_message_folder">Все содержимое папки будет удалено.\n</string>
@@ -74,7 +74,7 @@
 	<string name="fail_to_create_folder_unknown">Не удалось создать папку.</string>
     <string name="fail_to_rename">Папка/файл с таким именем уже существует.</string>
     <string name="error_filename_too_long">Имя файла слишком длинное.</string>
-    <string name="enable_sd_card">Подключите SD карту или отключите режим USB.</string>
+    <string name="enable_sd_card">Подключите SD карту или отключите USB устройство.</string>
     <string name="start_server">Старт</string>
     <string name="stop_server">Стоп</string>
     <string name="notif_server_starting">Запуск FTP сервера…</string>
@@ -279,7 +279,7 @@
     <string name="header_text_cleaning">Очистка…</string>
     <string name="header_text_cleaned">Готово</string>
     <string name="waiting_for_cleaning">Ожидание…</string>
-    <string name="item_name">Без имени</string>
+    <string name="item_name">Безымянная папка</string>
     <string name="waiting_for_scanning">Ожидание…</string>
     <string name="temp_file_title">Временные файлы</string>
     <string name="thumbnail_title">Эскизы</string>
@@ -315,7 +315,7 @@
     <string name="operation_moving_detail">Перемещение (%1$d/%2$d)</string>
     <string name="operation_copying">Копирование…</string>
     <string name="operation_copying_detail">Копирование (%1$d/%2$d)</string>
-    <string name="name_illegal">Название не может быть пустым.</string>
+    <string name="name_illegal">Введите название</string>
     <string name="open_changed_file_title">Изменения применены</string>
     <string name="open_changed_file_message">"Файл, который вы пытаетесь открыть изменен, вы можете:
 1. Скачать файл заново, для того, чтобы убедиться, что у вас последняя версия.
@@ -339,8 +339,10 @@
     <string name="my_bakup_video">Видео</string>
     <string name="my_bakup_music">Музыка</string>
     <string name="my_bakup_doc">Документы</string>
-    <string name="my_bakup_other">Другие</string>
+    <string name="my_bakup_other">Прочее</string>
     <string name="share_box">Переданные</string>
     <string name="share_box_send">Отправленные</string>
     <string name="share_box_receive">Принятые</string>
+	<string name="file_not_exist">Файл не существует</string>
+	<string name="open_file_failed">Не удалось открыть файл</string>
 </resources>

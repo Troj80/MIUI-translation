@@ -39,9 +39,9 @@
         <item>IM</item>
         <item>Интернет номер</item>
         <item>День рождения</item>
-        <item>Веб-сайт</item>
+        <item>Сайт</item>
         <item>Адрес</item>
-        <item>Примечания</item>
+        <item>Заметка</item>
     </string-array>
     <string-array name="entries_date_type">
         <item>Время получения</item>

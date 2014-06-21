@@ -457,7 +457,7 @@
 	<string name="yellow_page_sms_send_failed">Не удалось отправить сообщение</string>
 	<string name="yellow_page_sms_sending">Отправка…</string>
 	<string name="yellow_page_sms_disabled_in_privacy_mode">Невозможно отправить сообщение в режиме \"Гость\"</string>
-	<string name="toast_lockscreen_glogin_empty_password">Пароль не требуется.</string>
+	<string name="toast_lockscreen_glogin_empty_password">Требуется пароль.</string>
     <string name="grant_permissions_apps">Запрос доступа приложения</string>
     <string name="grant_permissions_account">Запрос доступа аккаунта</string>
 	<string name="v5_date_time_picker_dialog_title">Время напоминания</string>

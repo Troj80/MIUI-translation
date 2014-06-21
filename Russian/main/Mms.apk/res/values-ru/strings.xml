@@ -122,7 +122,7 @@
     <string name="too_many_recipients">Указано слишком много получателей (%1$s). Разрешено не более %2$s.</string>
     <string name="too_many_attachments">Для вложений установлено ограничение: %1$s. Будет добавлено вложений: %2$s.</string>
     <string name="adding_attachments_title">Добавление вложений</string>
-    <string name="adding_attachments">Добавление. Подождите…</string>
+    <string name="adding_attachments">Подождите пока вложения добавятся. Подождите…</string>
     <string name="cannot_play_audio">Не удалось воспроизвести аудио.</string>
     <string name="preview">Просмотр</string>
     <string name="preview_slideshow">Предварительный просмотр</string>
@@ -266,8 +266,8 @@
     <string name="unknown_sender">Неизвестный отправитель</string>
     <string name="dl_failure_notification">Не удалось загрузить сообщение %1$s от %2$s.</string>
     <string name="rate_limit_surpassed">Подтвердить</string>
-    <string name="confirm_rate_limit">Отправляется большое количество MMS. Продолжить?</string>
-    <string name="message_download_failed_title">Не удалось загрузить сообщение</string>
+    <string name="confirm_rate_limit">Отправится большое количество MMS. Продолжить?</string>
+    <string name="message_download_failed_title">Сообщение не загружено</string>
     <string name="message_send_failed_title">Сообщение не отправлено</string>
     <string name="message_failed_body">Нажмите, чтобы просмотреть сообщение и повторить попытку.</string>
     <string name="download_later">Не удалось загрузить сообщения. Повторите попытку позже.</string>
@@ -570,7 +570,7 @@
 	<string name="app_name">Управление устройством</string>
     <string name="manage_permission_app_label">Разрешения управления устройством</string>
     <string name="send_message_dlg_title">Управление устройством</string>
-    <string name="send_message_dlg_check_hint">Запомнить</string>
+    <string name="send_message_dlg_check_hint">Запомнить мой выбор</string>
     <string name="send_message_dlg_mgs">Ваше устройство необходимо зарегистрировать на платформе управления устройством для предоставления бесплатных сервисов CMCC. Для регистрации будет отправлена SMS активации. Продолжить?</string>
     <string name="confirm_dlg_title">Управление устройством</string>
     <string name="confirm_dlg__msg">Отменить регистрацию?</string>

@@ -106,7 +106,7 @@
 	<string name="sc_service_unavailable">Mi Cloud недоступен</string>
 	<string name="sc_unauthorized">Войдите заново</string>
 	<string name="sc_request_timeout">Время ожидания истекло</string>
-	<string name="sc_precondition_failed">Ваш Xiaomi аккаунт не связан ни с одним из адресов электронной почты.</string>
+	<string name="sc_precondition_failed">Необходимо привязать ваш Xiaomi аккаунт с электронной почтой</string>
 	<string name="sc_internal_server_error">Ошибка сервера</string>
 	<string name="sc_others">Произошла ошибка</string>
 	<string name="succeed">Завершено</string>
@@ -119,7 +119,7 @@
 	<string name="restore_contact">Восстановить контакты</string>
 	<string name="restore_contact_content">Восстановление контактов может привести к дублированию контактов. После восстановления можно выполнить слияние дубликатов контактов.</string>
 	<string name="progress_restore_hint">Восстановление…</string>
-	<string name="cancel_restore">Отменить восстановление</string>
+	<string name="cancel_restore">Прервать</string>
 	<string name="restore_failed">Ошибка восстановления</string>
 	<string name="local_select_sysdata">Система</string>
 	<string name="local_select_userapp">Приложения</string>
@@ -143,7 +143,7 @@
 	<string name="restore">Восстановить</string>
 	<string name="cloud_last_backup">Последний бэкап:</string>
 	<string name="cloud_search">Поиск…</string>
-	<string name="cloud_no_backup">Нет облачных бэкапов</string>
+	<string name="cloud_no_backup">Нет бэкапов</string>
 	<string name="current_account">Привет, %s</string>
 	<string name="current_sim">Текущая SIM карта</string>
 	<string name="date_format">dd.MM.yyyy HH:mm:ss</string>
@@ -199,7 +199,7 @@
     <string name="cloud_app_total_size">Общий размер бэкапа: %1$s</string>
     <string name="cloud_app_version_size">Версия: %1$s | Размер: %2$s</string>
     <string name="cloud_app_restore_prompt">Процесс восстановления перезапишет все локальные данные пользователя вместе с данными в облаке.</string>
-    <string name="cloud_app_remove_prompt">%1$s данные будут удалены. Продолжить?</string>
+    <string name="cloud_app_remove_prompt">Данных будет удалено: %1$s. Продолжить?</string>
     <string name="cloud_app_find_backup_prompt_1">Вы хотите сохранить локальные данные перед восстановлением?</string>
     <string name="cloud_app_find_backup_prompt_2">Если вы не сохраните их сейчас, данные будут перезаписаны при восстановлении.</string>
     <string name="cloud_app_restore_data_title">Восстановить данные пользователя</string>
