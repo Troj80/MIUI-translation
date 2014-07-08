@@ -437,14 +437,14 @@
     <string name="lockscreen_ruim_pin_blocked">PIN1 заблокирован! Введите PUK1 для разблокировки PIN1.</string>
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">Вы неправильно ввели PIN код %d раз(а). \n\n Новая попытка через %d сек.</string>
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Вы неправильно ввели графический ключ %d раз(а). После %d неудачных попыток Вам будет предложено разблокировать телефон с помощью аккаунта Google. \n\n Новая попытка через %d сек.</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Не удалось разблокировать телефон (Число попыток: %d). Осталось попыток: %d. После этого будут установлены настройки по умолчанию, что приведет к удалению всех пользовательских данных</string>
-    <string name="lockscreen_failed_attempts_now_wiping">Не удалось разблокировать телефон (Число попыток: %d). Будут установлены настройки по умолчанию</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Не удалось разблокировать телефон (число попыток: %d). Осталось попыток: %d. После этого будут установлены настройки по умолчанию, что приведет к удалению всех пользовательских данных</string>
+    <string name="lockscreen_failed_attempts_now_wiping">Не удалось разблокировать телефон (число попыток: %d). Будут установлены настройки по умолчанию</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Новая попытка через %d сек.</string>
     <string name="lockscreen_forgot_pattern_button_text">Забыли графический ключ?</string>
     <string name="lockscreen_glogin_forgot_pattern">Разблокировка аккаунта</string>
     <string name="lockscreen_glogin_too_many_attempts">Слишком много попыток ввода</string>
     <string name="lockscreen_glogin_instructions">Для разблокировки войдите в аккаунт Google.</string>
-    <string name="lockscreen_glogin_username_hint">Логин (e-mail)</string>
+    <string name="lockscreen_glogin_username_hint">Логин (email)</string>
     <string name="lockscreen_glogin_password_hint">Пароль</string>
     <string name="lockscreen_glogin_submit_button">Вход</string>
     <string name="lockscreen_glogin_invalid_input">Неверный логин или пароль.</string>
@@ -567,7 +567,7 @@
     <string name="textSelectionCABTitle">Выбор текста</string>
     <string name="addToDictionary">добавить в словарь</string>
     <string name="deleteText">удалить</string>
-    <string name="inputMethod">Метод ввода</string>
+    <string name="inputMethod">Способ ввода</string>
     <string name="editTextMenuTitle">Действия с текстом</string>
     <string name="low_internal_storage_view_title">Мало внутренней памяти.</string>
     <string name="low_internal_storage_view_text">Внутренней памяти телефона становится все меньше и меньше.</string>
@@ -753,7 +753,7 @@
     <string name="permission_request_notification_title">Запрос разрешения</string>
     <string name="Permission requested">Запрос разрешения</string>
     <string name="permission_request_notification_with_subtitle">Требуется разрешение\n для аккаунта \"%s\"</string>
-    <string name="input_method_binding_label">Метод ввода</string>
+    <string name="input_method_binding_label">Способ ввода</string>
     <string name="sync_binding_label">Синхр.</string>
     <string name="accessibility_binding_label">Специальные возможности</string>
     <string name="wallpaper_binding_label">Обои</string>
@@ -998,7 +998,7 @@
     <string name="kg_invalid_confirm_pin_hint">PIN коды не совпадают</string>
     <string name="kg_login_too_many_attempts">Слишком много неверных попыток ввода графического ключа</string>
     <string name="kg_login_instructions">Для разблокировки, войдите в Google аккаунт.</string>
-    <string name="kg_login_username_hint">Логин (E-mail)</string>
+    <string name="kg_login_username_hint">Логин (Email)</string>
     <string name="kg_login_password_hint">Пароль</string>
     <string name="kg_login_submit_button">Войти</string>
     <string name="kg_login_invalid_input">Неверное имя пользователя или пароль.</string>
@@ -1056,7 +1056,7 @@
     <string name="permlab_batteryStats">Статистика батареи</string>
     <string name="permlab_bindDeviceAdmin">Данные администратора</string>
     <string name="permlab_bindGadget">Виджеты</string>
-    <string name="permlab_bindInputMethod">Метод ввода</string>
+    <string name="permlab_bindInputMethod">Способ ввода</string>
     <string name="permlab_bindPackageVerifier">Проверка приложений</string>
     <string name="permlab_bindRemoteViews">Служба виджетов</string>
     <string name="permlab_bindTextService">Служба сообщений</string>
@@ -1113,7 +1113,7 @@
     <string name="permlab_manageAccounts">Управление аккаунтами</string>
     <string name="permlab_manageAppTokens">Управление упорядочиванием</string>
     <string name="permlab_manageNetworkPolicy">Управление сетевой политикой</string>
-    <string name="permlab_manageUsb">Управление USB-устройствами</string>
+    <string name="permlab_manageUsb">Управление USB устройствами</string>
     <string name="permlab_masterClear">Общий сброс</string>
     <string name="permlab_mediaStorageWrite">Данные мультимедиа</string>
     <string name="permlab_modifyAudioSettings">Настройки звука</string>
@@ -1205,7 +1205,7 @@
     <string name="permdesc_batteryStats">Позволяет системному приложению изменять статистику батареи.</string>
     <string name="permdesc_bindDeviceAdmin">Позволяет системному приложению отправлять данные администратору устройства.</string>
     <string name="permdesc_bindGadget">Позволяет системному приложению собирать информацию о виджетах.</string>
-    <string name="permdesc_bindInputMethod">Позволяет системному приложению выполнять привязку к методу ввода.</string>
+    <string name="permdesc_bindInputMethod">Позволяет системному приложению выполнять привязку к способу ввода.</string>
     <string name="permdesc_bindPackageVerifier">Позволяет системному приложению отправлять запросы на проверку пакетов приложений.</string>
     <string name="permdesc_bindRemoteViews">Позволяет системному приложению выполнять привязку к службе виджетов.</string>
     <string name="permdesc_bindTextService">Позволяет системному приложению выполнять привязку к службе текстовых сообщений (например, SpellCheckerService).</string>
@@ -1253,7 +1253,7 @@
     <string name="permdesc_getPackageSize">Позволяет приложению получать сведения о размере приложения.</string>
     <string name="permdesc_getTasks">Позволяет приложению получать сведения о последних и текущих процессах.</string>
     <string name="permdesc_hardware_test">Позволяет приложению управлять различными процессами для проверки аппаратного обеспечения.</string>
-    <string name="permdesc_injectEvents">Позволяет приложению передавать собственные методы ввода в другие приложения, например нажатия клавиш. Вредоносные приложения могут использовать эту возможность для установки полного контроля над телефоном.</string>
+    <string name="permdesc_injectEvents">Позволяет приложению передавать собственные способы ввода в другие приложения, например нажатия клавиш. Вредоносные приложения могут использовать эту возможность для установки полного контроля над телефоном.</string>
     <string name="permdesc_installLocationProvider">Позволяет приложению создавать фиктивные источники местоположения для тестирования.</string>
     <string name="permdesc_installPackages">Позволяет приложению устанавливать новые или обновленные приложения.</string>
     <string name="permdesc_internalSystemWindow">Позволяет системному приложению отображать всплывающие окна.</string>
@@ -1262,9 +1262,9 @@
     <string name="permdesc_manageAccounts">Позволяет приложению управлять аккаунтами.</string>
     <string name="permdesc_manageAppTokens">Позволяет системному приложению создавать собственное упорядочивание.</string>
     <string name="permdesc_manageNetworkPolicy">Позволяет приложению управлять сетевыми политиками и задавать свои правила для приложений.</string>
-    <string name="permdesc_manageUsb">Позволяет приложению управлять настройками и разрешениями для USB-устройств.</string>
+    <string name="permdesc_manageUsb">Позволяет приложению управлять настройками и разрешениями для USB устройств.</string>
     <string name="permdesc_masterClear">Позволяет приложению восстанавливать заводские настройки системы, удалять все данные и приложения.</string>
-    <string name="permdesc_mediaStorageWrite">Позволяет приложению изменять содержимое мультимедиа во внутренней памяти.</string>
+    <string name="permdesc_mediaStorageWrite">Позволяет приложению изменять содержимое медиа во внутренней памяти.</string>
     <string name="permdesc_modifyAudioSettings">Позволяет приложению изменять настройки звука.</string>
     <string name="permdesc_modifyNetworkAccounting">Позволяет системному приложению изменить способ учета трафика.</string>
     <string name="permdesc_modifyPhoneState">Позволяет приложению управлять функциями телефона. Приложение, обладающее этим разрешением, может переключать сети, включать и выключать радио на телефоне и выполнять другие подобные действия без уведомлений для пользователя.</string>
@@ -1288,7 +1288,7 @@
     <string name="permdesc_readNetworkUsageHistory">Позволяет приложению читать журнал использования сетей.</string>
     <string name="permdesc_readPhoneState">Позволяет приложению считывать данные телефона. Приложение с таким разрешением может определять номер телефона и серийный номер устройства, наличие активного вызова, номер абонента и подобную информацию.</string>
     <string name="permdesc_readProfile">Позволяет приложению считывать информацию профиля. Вредоносные приложения могут использовать эту возможность для чтения личной информации.</string>
-    <string name="permdesc_readSms">Позволяет приложению считывать SMS-сообщения, которые хранятся в памяти телефона или на SIM-карте.</string>
+    <string name="permdesc_readSms">Позволяет приложению считывать SMS-сообщения, которые хранятся в памяти телефона или на SIM карте.</string>
     <string name="permdesc_readSocialStream">Позволяет приложению читать и синхронизировать новости от вас и ваших друзей. Вредоносные программы могут таким образом получить доступ к вашим личным записям в социальных сетях.</string>
     <string name="permdesc_readSyncSettings">Позволяет приложению считывать настройки синхронизации.</string>
     <string name="permdesc_readSyncStats">Позволяет приложению считывать статистику синхронизации, например историю произведенных синхронизаций.</string>
@@ -1351,7 +1351,7 @@
     <string name="permgroupdesc_messages">Считывать и записывать SMS, электронные письма и другие сообщения</string>
     <string name="permgroupdesc_network">Позволяет приложению получать доступ к различным сетевым функциям</string>
     <string name="permgroupdesc_personalInfo">Прямой доступ к контактам и событиям календаря, сохраненным в памяти телефона</string>
-    <string name="permgroupdesc_phoneCalls">Отслеживать, записывать и обрабатывать телефонные звонки</string>
+    <string name="permgroupdesc_phoneCalls">Отслеживать, записывать и обрабатывать телефонные вызовы</string>
     <string name="permgroupdesc_storage">Доступ к SD карте</string>
     <string name="permgroupdesc_systemTools">Доступ нижнего уровня и управление системой</string>
     <string name="permgrouplab_accounts">Аккаунты</string>
@@ -1665,15 +1665,15 @@
 	<string name="undo">Отмена</string>
 	<string name="wifi_on_vt_not_allowed_msg">Видеосвязь недоступна при включенном Wi-Fi</string>
 	<string name="wifi_p2p_pbc_go_negotiation_request_message">Чтобы принять запрос от устройства %1$s на соединение Wi-Fi Direct, нажмите кнопку \"ОК\"</string>
-    <string name="wifi_p2p_pin_display_message">Чтобы продолжить настройку подключения, введите PIN-код WPS %1$s на обнаруженном устройстве %2$s</string>
-    <string name="wifi_p2p_pin_go_negotiation_request_message">Чтобы продолжить настройку соединения с устройством %1$s через Wi-Fi Direct, введите PIN-код</string>
+    <string name="wifi_p2p_pin_display_message">Чтобы продолжить настройку подключения, введите PIN код WPS %1$s на обнаруженном устройстве %2$s</string>
+    <string name="wifi_p2p_pin_go_negotiation_request_message">Чтобы продолжить настройку соединения с устройством %1$s через Wi-Fi Direct, введите PIN код</string>
 	<string name="zzz_keyguard_password_attempt_count_pin_code">Осталось попыток: %1$d</string>
     <string name="zzz_keyguard_password_attempts_count_pin_code">Осталось попыток: %1$d</string>
 	<string name="keyguard_password_entry_touch_hint">Ввести пароль</string>
 	<string name="candidates_style">Кандидаты</string>
-    <string name="sim_unavailable">SIM-карта отсутствует</string>
-    <string name="sim_locked">SIM-карта заблокирована</string>
-    <string name="sim_not_ready">SIM-карта не готова. Попробуйте позже.</string>
+    <string name="sim_unavailable">SIM карта отсутствует</string>
+    <string name="sim_locked">SIM карта заблокирована</string>
+    <string name="sim_not_ready">SIM карта не готова. Попробуйте позже.</string>
     <string name="sim_in_airplane_mode">Выключите режим \"В самолете\"</string>
     <string name="volume_warning_message">Прослушивание музыки на большой громкости может повлиять на ваш слух.</string>
     <string name="resolver_guide_title">Настройки по умолчанию</string>
@@ -1689,8 +1689,8 @@
     <string name="capability_desc_canRequestEnhancedWebAccessibility">При необходимости устанавливать скрипты, чтобы получить больше специальных возможностей.</string>
     <string name="capability_title_canRequestFilterKeyEvents">Следить за печатаньем</string>
     <string name="capability_desc_canRequestFilterKeyEvents">Отслеживать и фильтровать личные данные, например номера кредитных карт и пароли.</string>
-	<string name="permlab_sendRespondViaMessageRequest">Отправка сообщений в ответ на звонки</string>
-    <string name="permdesc_sendRespondViaMessageRequest">Приложение сможет отправлять запросы другим программам обмена сообщениями, чтобы на звонки можно было отвечать текстовыми сообщениями.</string>
+	<string name="permlab_sendRespondViaMessageRequest">Отправка сообщений в ответ на вызовы</string>
+    <string name="permdesc_sendRespondViaMessageRequest">Приложение сможет отправлять запросы другим программам обмена сообщениями, чтобы на вызовы можно было отвечать текстовыми сообщениями.</string>
 	<string name="permlab_getTopActivityInfo">Показ информации о приложении</string>
     <string name="permdesc_getTopActivityInfo">На экране будут отображаться сведения о текущем приложении.</string>
 	<string name="permlab_getAppOpsStats">Получение рабочего журнала приложений</string>
@@ -1796,15 +1796,15 @@
     <string name="reason_service_unavailable">Служба печати не включен</string>
     <string name="print_service_installed_title">Служба установлена: %s</string>
     <string name="print_service_installed_message">Нажмите для включения</string>
-    <string name="restr_pin_enter_admin_pin">Введите PIN-код администратора</string>
-    <string name="restr_pin_enter_pin">Введите PIN-код</string>
-    <string name="restr_pin_incorrect">Неверный PIN-код</string>
-    <string name="restr_pin_enter_old_pin">Текущий PIN-код</string>
-    <string name="restr_pin_enter_new_pin">Новый PIN-код</string>
-    <string name="restr_pin_confirm_pin">Подтвердите новый PIN-код</string>
-    <string name="restr_pin_create_pin">Создание нового PIN-код для изменения ограничения</string>
-    <string name="restr_pin_error_doesnt_match">PIN-коды не совпадают. Повторите попытку</string>
-    <string name="restr_pin_error_too_short">PIN-код слишком короткий, должен содержать не менее 4 цифр.</string>
+    <string name="restr_pin_enter_admin_pin">Введите PIN код администратора</string>
+    <string name="restr_pin_enter_pin">Введите PIN код</string>
+    <string name="restr_pin_incorrect">Неверный PIN код</string>
+    <string name="restr_pin_enter_old_pin">Текущий PIN код</string>
+    <string name="restr_pin_enter_new_pin">Новый PIN код</string>
+    <string name="restr_pin_confirm_pin">Подтвердите новый PIN код</string>
+    <string name="restr_pin_create_pin">Создание нового PIN код для изменения ограничения</string>
+    <string name="restr_pin_error_doesnt_match">PIN коды не совпадают. Повторите попытку</string>
+    <string name="restr_pin_error_too_short">PIN код слишком короткий, должен содержать не менее 4 цифр.</string>
     <string name="restr_pin_try_later">Повторить позже</string>
     <string name="immersive_mode_confirmation">Проведите сверху вниз, чтобы выйти из полноэкранного режима.</string>
     <string name="webviewchromium_actionbar_share">Поделиться</string>

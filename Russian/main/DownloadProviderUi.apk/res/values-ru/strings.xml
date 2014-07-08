@@ -19,8 +19,8 @@
     <string name="dialog_queued_body">Файл добавлен в очередь загрузки.</string>
     <string name="dialog_file_missing_title">Не удается открыть файл</string>
     <string name="dialog_file_missing_body">Загружаемый файл не найден.</string>
-    <string name="dialog_insufficient_space_on_external">Ошибка загрузки. Недостаточно свободного места на SD карте.</string>
-    <string name="dialog_insufficient_space_on_cache">Ошибка загрузки. Недостаточно свободного места на внутренней карте памяти.</string>
+    <string name="dialog_insufficient_space_on_external">Не хватает памяти на внешнем накопителе</string>
+    <string name="dialog_insufficient_space_on_cache">Не хватает места во внутренней памяти</string>
     <string name="dialog_cannot_resume">Загрузка прервана. Невозможно возобновить загрузку.</string>
     <string name="dialog_file_already_exists">Загружаемый файл уже существует.</string>
     <string name="dialog_media_not_found">Ошибка загрузки. Внешний носитель недоступен.</string>
@@ -30,7 +30,7 @@
     <string name="keep_queued_download">Продолжить</string>
     <string name="cancel_running_download">Отменить</string>
     <string name="retry_download">Повторить</string>
-    <string name="deselect_all">Снять выделение</string>
+    <string name="deselect_all">Снять выбор</string>
     <string name="select_all">Выбрать все</string>
     <string name="selected_count">Выбрано %1$d из %2$d</string>
     <string name="download_share_dialog">Отправить…</string>
@@ -44,7 +44,7 @@
     <string name="menu_enter_edit_mode">Редактор</string>
     <string name="delete_downloads_records">Удалить загрузки</string>
     <string name="pause_download">Пауза</string>
-    <string name="resume_download">Старт</string>
+    <string name="resume_download">Запустить</string>
     <string name="restart_download">Еще раз</string>
     <string name="open_download">Открыть</string>
     <string name="paused_by_app">Пауза</string>
@@ -54,7 +54,7 @@
     <string name="paused_unknown">Остановлено по неизвестной причине</string>
     <string name="confirm_delete_downloads_message">Выбранные элементы (%d шт.) будут удалены!</string>
     <string name="confirm_delete_the_download_item_message">Удалить выбранное?</string>
-    <string name="delete_the_downloaded_file">Удалить загруженные элементы</string>
+    <string name="delete_the_downloaded_file">Удалить загруженные файлы.</string>
     <string name="downloads_operating">Загрузка…</string>
     <string name="disable_download_only_in_wifi_title">Выключение \"Загрузка только по Wi-Fi\"</string>
     <string name="confirm_disable_download_only_in_wifi_message">Выключение \"Загрузка только по Wi-Fi\" возможно приведет к дополнительным затратам. Выключить?</string>
@@ -65,7 +65,7 @@
     <string name="pref_summary_enable_max_bytes_popup">Уведомление о превышении лимита на размер файла</string>
     <string name="pref_title_max_bytes_limit">Максимальный размер файла</string>
     <string name="pref_summary_max_bytes_limit_format">Уведомление появится, если размер превысит %s</string>
-    <string name="pref_summary_any_bytes_popup">Всегда только по Wi-Fi</string>
+    <string name="pref_summary_any_bytes_popup">Загрузка только по Wi-Fi</string>
 	<string name="pref_summary_no_limit_popup">Загружать файлы любого размера</string>
     <string name="pref_dialog_title_max_bytes_limit">Максимальный размер файла</string>
     <string name="cancel_download_notice">Не уведомлять о загрузках</string>

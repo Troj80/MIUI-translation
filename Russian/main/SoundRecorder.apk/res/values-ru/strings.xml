@@ -64,7 +64,7 @@
     <string name="rename_duplicate">Такое имя уже существует.</string>
     <string name="record_picker_title">Диктофон</string>
     <string name="dialog_title_storage_full">Недостаточно свободного места</string>
-    <string name="dialog_content_storage_full">Из-за нехватки памяти, запись была остановлена, удалите лишние файлы через Файл менеджер, запустить приложение?</string>
+    <string name="dialog_content_storage_full">Из-за нехватки памяти, запись была остановлена.</string>
     <string name="record_saving">Сохранение…</string>
     <string name="preparing_playback">Загрузка записи…</string>
     <string name="loading_duration">Загружается длительность…</string>

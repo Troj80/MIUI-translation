@@ -20,13 +20,13 @@
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Никогда</item>
-        <item>15 сек.</item>
-        <item>30 сек.</item>
-        <item>1 мин.</item>
-        <item>2 мин.</item>
-        <item>5 мин.</item>
-        <item>10 мин.</item>
-        <item>30 мин.</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
     </string-array>
     <string-array name="lock_after_timeout_entries">
         <item>Сразу</item>
@@ -35,7 +35,7 @@
         <item>30 секунд</item>
         <item>1 минута</item>
         <item>2 минуты</item>
-        <item>5 минут.</item>
+        <item>5 минут</item>
         <item>10 минут</item>
         <item>30 минут</item>
     </string-array>
@@ -52,8 +52,8 @@
         <item>Быстрая</item>
         <item>Быстрее</item>
         <item>Очень быстрая</item>
-    <item>Скоростная</item>
-        <item>Очень скорост ная</item>
+        <item>Скоростная</item>
+        <item>Очень скоростная</item>
         <item>Самая быстрая</item>
     </string-array>
     <string-array name="change_security_lock_picker">
@@ -191,7 +191,7 @@
     <string-array name="silent_mode_entries">
         <item>Выкл</item>
         <item>Вибросигнал</item>
-        <item>Вкл.</item>
+        <item>Включен</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Небольшая</item>
@@ -293,7 +293,7 @@
         <item>Средний</item>
         <item>Слабый</item>
     </string-array>
-    <string-array name="media_feedback_level_entries">
+	<string-array name="media_feedback_level_entries">
         <item>Сильный</item>
         <item>Средний</item>
         <item>Слабый</item>
@@ -573,7 +573,7 @@
         <item>Музыка</item>
         <item>Почта</item>
     </string-array>
-    <string-array name="app_ops_categories">
+	<string-array name="app_ops_categories">
         <item>Местоположение</item>
         <item>Личность</item>
         <item>Обмен сообщениями</item>
@@ -672,7 +672,7 @@
 		<item>Медленная скорость из-за большой нагрузки</item>
 		<item>Медленная скорость из-за слабого сигнала</item>
 		<item>Перемещение…</item>
-		</string-array>
+	</string-array>
     <string-array name="mvno_type_entries">
         <item>Ничего</item>
         <item>SPN</item>
@@ -726,4 +726,7 @@
         <item>низкий</item>
         <item>критический</item>
     </string-array>
-</resources>
+    <string-array name="perm_disable_keyguard_action">
+        <item>Разрешить</item>
+        <item>Запретить</item>
+    </string-array></resources>

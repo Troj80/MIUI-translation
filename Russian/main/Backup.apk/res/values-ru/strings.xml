@@ -44,8 +44,8 @@
 	<string name="backup_new">Новый:</string>
 	<string name="backup_update">Обновить</string>
 	<string name="backup_delete">Удалить:</string>
-	<string name="findlost_contact">Восстановить удаленные контакты</string>
-	<string name="findlost_contact_online">Восстановить удаленные контакты из Mi Cloud</string>
+	<string name="findlost_contact">Восстановить контакты</string>
+	<string name="findlost_contact_online">Восстановить контакты из Mi Cloud</string>
 	<string name="cloud_backup_login">Войти через аккаунт Xiaomi</string>
 	<string name="cloud_backup_hint">Авторизуйтесь для доступа к бэкапам</string>
 	<string name="cloud_backup_window_title">Mi Cloud бэкап</string>
@@ -97,7 +97,7 @@
 	<string name="task_restore_cancel_dialog">Отмена восстановления может привести к повреждению данных.</string>
 	<string name="task_backup_cancel_progress">Отмена…</string>
 	<string name="task_restore_cancel_progress">Отмена…</string>
-	<string name="nothing_searched">Ничего не найдено</string>
+	<string name="nothing_searched">Нет результатов поиска</string>
 	<string name="restore_counts">Восстановление:</string>
 	<string name="service_stoped">Сервис остановлен</string>
 	<string name="sc_network_unavailable">Ошибка соединения с сетью</string>
@@ -151,7 +151,7 @@
 	<string name="no_network">Не удалось подключиться к сети</string>
 	<string name="retry">Повтор</string>
 	<string name="select_all">Выбрать все</string>
-	<string name="reverse_all">Снять все</string>
+	<string name="reverse_all">Снять выбор</string>
 	<string name="refresh">Обновить</string>
 	<string name="cloud_item_info_summary">" (Локальный: %1$s | Mi Cloud: %2$s)"</string>
 	<string name="total_num">Всего записей: %d</string>
@@ -193,13 +193,13 @@
     <string name="cloud_app_function_summary">Если Вы создадите бэкап в Mi Cloud, то сможете быстро восстановить его на любом устройстве</string>
     <string name="cloud_app_restore_action_bar_title">%1$s данных были скопированы</string>
     <string name="cloud_app_current_device">Текущее устройство</string>
-    <string name="cloud_app_other_devices">Прочие устройства</string>
+    <string name="cloud_app_other_devices">Другие устройства</string>
     <string name="cloud_app_delete_data">Удалить бэкап</string>
     <string name="cloud_app_backup_date">"Создан бэкап "</string>
     <string name="cloud_app_total_size">Общий размер бэкапа: %1$s</string>
-    <string name="cloud_app_version_size">Версия: %1$s, Размер:%2$s</string>
+    <string name="cloud_app_version_size">Версия: %1$s | Размер: %2$s</string>
     <string name="cloud_app_restore_prompt">Процесс восстановления перезапишет все локальные данные пользователя вместе с данными в облаке.</string>
-    <string name="cloud_app_remove_prompt">%1$s данные будут удалены. Продолжить?</string>
+    <string name="cloud_app_remove_prompt">Данных будет удалено: %1$s. Продолжить?</string>
     <string name="cloud_app_find_backup_prompt_1">Вы хотите сохранить локальные данные перед восстановлением?</string>
     <string name="cloud_app_find_backup_prompt_2">Если вы не сохраните их сейчас, данные будут перезаписаны при восстановлении.</string>
     <string name="cloud_app_restore_data_title">Восстановить данные пользователя</string>
