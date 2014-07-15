@@ -269,7 +269,7 @@
     <string name="description_direction_right">Проведите вправо, чтобы отключить.</string>
     <string name="description_direction_left">Проведите влево, чтобы отложить.</string>
     <string name="description_direction_up">Проведите вверх, чтобы отключить.</string>
-    <string name="description_direction_down">роведите вниз, чтобы отложить.</string>
+    <string name="description_direction_down">Проведите вниз, чтобы отложить.</string>
     <string name="timer_stopped">Таймер остановлен</string>
     <string name="timers_stopped">Таймеров остановлено: %d</string>
     <string name="all_timers_stopped_notif">Нажмите для просмотра таймеров</string>
@@ -308,4 +308,6 @@
     <string name="item_is_selected">Выбрано: %1$s</string>
     <string name="deleted_key">Удалено: %1$s</string>
 	<string name="timer_message_with_seconds">%1$d сек.</string>
+    <string name="alarm_on">Включен</string>
+    <string name="alarm_off">Выключен</string>
 </resources>

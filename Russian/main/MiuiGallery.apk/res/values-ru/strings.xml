@@ -7,7 +7,7 @@
 	<string name="add_sharer">Добавить пользователя</string>
 	<string name="add_to_cloud_album">В облако</string>
 	<string name="add_to_cloud_fail_too_many_items">Выбрано слишком много элементов</string>
-	<string name="comfirm_delete_current_album">Удалить выбранный альбом?</string>
+	<string name="comfirm_delete_current_album">Удалить альбом?</string>
 	<string name="add_to_cloud_failed_message_with_count">Невозможно добавить %2$s фото в облачный альбом: %1$s.</string>
 	<string name="add_to_cloud_folder">В облако</string>
 	<string name="add_to_cloud_local_space_full_message">Память заполнена</string>

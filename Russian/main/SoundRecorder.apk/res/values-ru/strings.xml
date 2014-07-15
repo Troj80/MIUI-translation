@@ -44,7 +44,7 @@
     <string name="second">%d сек.</string>
     <string name="minute">%d мин.</string>
     <string name="hour">%d ч.</string>
-    <string name="call_record_or">или</string>
+    <string name="call_record_or">" или "</string>
     <string name="dialog_play">Воспроизвести</string>
     <string name="dialog_send">Отправить</string>
     <string name="dialog_delete">Удалить</string>
@@ -131,5 +131,12 @@
     <string name="button_start_now">Продолжить</string>
     <string name="notification_title_all_paused">Загрузка приостановлена</string>
     <string name="notification_message_all_paused">Возможно чрезмерное потребление трафика.</string>
-	<string name="toast_file_is_downloading">Файл загружается…</string>
+	<string name="toast_file_is_downloading">Файл загружается...</string>
+    <string name="record_your_message">Записать сообщение</string>
+    <string name="message_recorded">Сообщение записано</string>
+    <string name="review_message">Обзор сообщения</string>
+    <string name="min_available">%d мин. доступно</string>
+    <string name="sec_available">%d сек. доступно</string>
+    <string name="accept">Готово</string>
+    <string name="discard">Отказаться</string>
 </resources>

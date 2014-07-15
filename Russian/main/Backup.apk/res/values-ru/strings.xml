@@ -16,7 +16,7 @@
 	<string name="button_ok">ОК</string>
 	<string name="backup_finished">Резервное копирование завершено</string>
 	<string name="backup_report">Отчет</string>
-	<string name="backup_hint">Не выключайте телефон!</string>
+	<string name="backup_hint">Не выключайте телефон</string>
 	<string name="menu_patch_delete">Удалить бэкап(ы)</string>
 	<string name="delete">Удалить</string>
 	<string name="cancel">Отмена</string>
@@ -154,8 +154,8 @@
 	<string name="reverse_all">Снять выбор</string>
 	<string name="refresh">Обновить</string>
 	<string name="cloud_item_info_summary">" (Локальный: %1$s | Mi Cloud: %2$s)"</string>
-	<string name="total_num">Всего записей: %d</string>
-	<string name="cloud_restore_guide">Нажмите \"Восстановить\", для восстановления\n Вы также можете восстановить \"%s\" из Бэкапа</string>
+	<string name="total_num">Всего: %d</string>
+	<string name="cloud_restore_guide">Нажмите \"Восстановить\", для восстановления \"%s\"</string>
     <string name="import_from_xiaomi_account_hint1">"1.\u0009Загрузите приложение MiTalk и войдите в систему.
 \u0009http://www.miui.su/mitalk
 
@@ -167,14 +167,14 @@
 	<string name="multi_select_title">Выбрано элементов: %1$s</string>
 	<string name="enable_encrypt_title">Включить шифрование</string>
 	<string name="disable_encrypt_title">Выключить шифрование</string>
-	<string name="enable_encrypt_indicator">Резервные копии не зашифрованы, нажмите для шифрования</string>
+	<string name="enable_encrypt_indicator">Нажмите для шифрования</string>
 	<string name="enable_encrypt">Включить</string>
 	<string name="already_enable_encrypt">Шифрование включено</string>
-	<string name="enable_encrypt_summery1">Система будет шифровать резервные копии.\nВойдите в свой аккаунт Xiaomi для использования шифрованых бэкапов.</string>
-	<string name="enable_encrypt_summery2">Все новые резервные копии будут автоматически зашифрованы. Войдите в свой аккаунт Xiaomi для использования шифрованых бэкапов.</string>
+	<string name="enable_encrypt_summery1">Войдите в свой аккаунт Xiaomi для использования шифрованных бэкапов.</string>
+	<string name="enable_encrypt_summery2">Ваши бэкапы будут автоматически зашифрованы. Войдите в свой аккаунт Xiaomi для использования шифрованных бэкапов.</string>
 	<string name="enable_encrypt_xiaomi_account">Бэкап создан аккаунтом \"%1$s\". Для восстановления удалите текущий аккаунт и войдите как \"%2$s\".</string>
 	<string name="enable_encrypt_ok">ОК</string>
-	<string name="no_encrypt_password">Нет пароля для шифрования</string>
+	<string name="no_encrypt_password">Нет пароля</string>
 	<string name="enable_encrypt_fail">Ошибка шифрования</string>
 	<string name="read_encrypt_fail">Не удалось прочитать зашифрованный бэкап</string>
 	<string name="exchange_account">Переключить аккаунт</string>
@@ -196,19 +196,19 @@
     <string name="cloud_app_other_devices">Другие устройства</string>
     <string name="cloud_app_delete_data">Удалить бэкап</string>
     <string name="cloud_app_backup_date">"Создан бэкап "</string>
-    <string name="cloud_app_total_size">Общий размер бэкапа: %1$s</string>
+    <string name="cloud_app_total_size">Размер: %1$s</string>
     <string name="cloud_app_version_size">Версия: %1$s | Размер: %2$s</string>
     <string name="cloud_app_restore_prompt">Процесс восстановления перезапишет все локальные данные пользователя вместе с данными в облаке.</string>
-    <string name="cloud_app_remove_prompt">Данных будет удалено: %1$s. Продолжить?</string>
+    <string name="cloud_app_remove_prompt">Данных будет удалено: %1$s.</string>
     <string name="cloud_app_find_backup_prompt_1">Вы хотите сохранить локальные данные перед восстановлением?</string>
     <string name="cloud_app_find_backup_prompt_2">Если вы не сохраните их сейчас, данные будут перезаписаны при восстановлении.</string>
     <string name="cloud_app_restore_data_title">Восстановить данные пользователя</string>
     <string name="cloud_app_restore_app_and_data">Восстановить приложения и данные пользователя</string>
-    <string name="cloud_app_restore_summary">Восстановление ранее установленных приложений и связанных с ними данные пользователя</string>
+    <string name="cloud_app_restore_summary">Восстановление ранее установленных приложений и их данных</string>
     <string name="cloud_app_restore_data">Восстановление ранее установленных приложений</string>
     <string name="cloud_app_dont_restore">Не восстанавливать</string>
-    <string name="cloud_app_restore_wifi_prompt">Вы должны быть подключены к интернету по Wi-Fi для восстановления приложений и данных пользователя.</string>
-    <string name="cloud_app_restore_query_error_prompt">Не удалось получить данные из облака. Приложения и пользовательские данные будут восстановлены автоматически, когда устройство будет находиться в сети Wi-Fi.</string>
+    <string name="cloud_app_restore_wifi_prompt">Вы должны быть подключены к интернету по Wi-Fi для восстановления ваших данных</string>
+    <string name="cloud_app_restore_query_error_prompt">Не удалось получить данные из облака. Приложения и пользовательские данные будут восстановлены автоматически, когда это будет возможно.</string>
     <string name="cloud_app_device">Устройство</string>
     <string name="cloud_app_data_in_other_devices">Нет резервных копий на данном устройстве</string>
     <string name="cloud_app_no_data">Нет данных</string>

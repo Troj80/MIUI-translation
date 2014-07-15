@@ -19,7 +19,7 @@
     <string name="sim_card_detection_label">SIM карта</string>
     <string name="sim_card_detection_info">Мы не можем настроить аккаунт Xiaomi без SIM карты. Вам необходима SIM карта для использования сервисов, как например синхронизация контактов, поиск телефона и т.д.</string>
     <string name="sim_card_detection_status_absent">SIM карта не обнаружена</string>
-    <string name="setup_complete_label">Спасибо</string>
+    <string name="setup_complete_label">Все готово!</string>
     <string name="setup_complete_info"></string>
     <string name="setup_complete_start">MIUI готова к использованию</string>
     <string name="setup_complete_summary">Настройка завершена! Наслаждайтесь MIUI!</string>

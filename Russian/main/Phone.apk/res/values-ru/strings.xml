@@ -755,7 +755,7 @@
 	<string name="answer_and_hangup_miui">Окончить вызов и ответить</string>
 	<string name="answer_features_setting_category_miui">Ответ</string>
 	<string name="answer_miui">Ответ</string>
-	<string name="answer_widget_dialog_title_miui">Выбор жеста для ответа</string>
+	<string name="answer_widget_dialog_title_miui">Жест для ответа</string>
 	<string name="answer_widget_sliding_horizontal_miui">Горизонтальный слайд</string>
 	<string name="answer_widget_sliding_vertical_miui">Вертикальный слайд</string>
 	<string name="answer_widget_title_miui">Жест для ответа</string>
@@ -794,7 +794,7 @@
 	<string name="auto_ip_exception_summary_more_miui">,… %d всего</string>
 	<string name="auto_ip_support_local_numbers">Всегда использовать префикс IP</string>
 	<string name="auto_record_call_summary_miui">Вызовы записываются и сохраняются в папку на SD карте: MIUI/sound_recorder/call_rec</string>
-	<string name="auto_record_call_title_miui">Записывать автоматически</string>
+	<string name="auto_record_call_title_miui">Автоматическая запись</string>
 	<string name="auto_record_scenario_title_miui">Режим</string>
 	<string name="auto_record_scenario_enteries_always_miui">Все номера</string>
 	<string name="auto_record_scenario_enteries_whitelist_miui">Выбранные номера</string>
@@ -841,7 +841,7 @@
 	<string name="call_record_sample_prefix_miui">Записи вызовов</string>
 	<string name="call_record_notification_message_start_failed">Устройство записи занято другим приложением</string>
 	<string name="call_record_sd_error_miui">Ошибка доступа к SD карте</string>
-	<string name="call_record_sd_space_low_miui">На SD недостаточно места</string>
+	<string name="call_record_sd_space_low_miui">SD карта заполнена</string>
 	<string name="call_record_path_name_of_sdcard_miui">SD карта</string>
 	<string name="call_settings_category_miui">Вызов</string>
 	<string name="call_settings_miui">Настройки вызовов</string>

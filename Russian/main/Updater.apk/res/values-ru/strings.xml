@@ -44,7 +44,7 @@
     <string name="dialog_yes">Да</string>
     <string name="dialog_no">Нет</string>
     <string name="dialog_ok">ОК</string>
-    <string name="verify_and_apply_dialog_title">Проверка целостности файла…</string>
+    <string name="verify_and_apply_dialog_title">Проверка…</string>
     <string name="verify_and_apply_dialog_message">Проверка суммы MD5…</string>
     <string name="apply_existing_update_md5error_title">Сумма MD5 не совпадает</string>
     <string name="file_not_found_error_message">Не удалось найти запрашиваемое обновление.</string>
@@ -52,7 +52,7 @@
     <string name="apply_upload_info_message">Нажатие \"Обновить\" автоматически перезагружает устройство после применения обновления.</string>
     <string name="apply_buddy_update_info_message">Для обновления нажмите \"Обновить\", для отмены нажмите \"Применить позже\".</string>
     <string name="system_backup_button_text">Выполнить резервное копирование системы перед обновлением</string>
-    <string name="system_backup_cancel_text">Перезагрузка для обновления</string>
+    <string name="system_backup_cancel_text">Начать обновление</string>
     <string name="system_backup_ok_text">Бэкап</string>
     <string name="system_backup_download_helper">Создать бэкап перед применением обновления?</string>
     <string name="system_backup_apply_helper">Создать бэкап перед применением обновления?</string>
@@ -60,7 +60,7 @@
     <string name="system_backup_ask">Не запоминать</string>
     <string name="system_backup_error_message">Приложение MIUI для создания резервных копий не найдено.</string>
     <string name="md5_check_cancelled">Проверка MD5 прервана</string>
-    <string name="no_updatecheck_executed">Не проверять наличие обновлений</string>
+    <string name="no_updatecheck_executed">Не удалось проверить обновление</string>
     <string name="no_updates_found">У вас установлена последняя версия MIUI</string>
     <string name="no_updates_warning">Для вашего устройства обновлений не найдено</string>
     <string name="no_updates_warning2">Расслабьтесь, мы уведомим вас об обновлении :)</string>
