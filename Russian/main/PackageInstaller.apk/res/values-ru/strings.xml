@@ -26,7 +26,7 @@
     <string name="ok">ОК</string>
     <string name="settings">Настройки</string>
     <string name="allow_source_dlg_title">Разрешить добавление нового источника для приложений?</string>
-    <string name="allow_source_dlg_text">"%1$s хочет установить другие приложения.
+    <string name="allow_source_dlg_text">"%1$s хочет устанавливать другие приложения.
 
 Разрешить и запомнить выбор?"</string>
     <string name="manage_applications">Управление приложениями</string>
@@ -41,7 +41,7 @@
     <string name="lift_ban">Снять запрет</string>
     <string name="uninstall_failed_retained_app_msg">Приложение, измененное администратором, не может быть удалено.</string>
     <string name="out_of_space_dlg_title">Недостаточно места</string>
-    <string name="out_of_space_dlg_text">Установить приложение %1$s не удалось. Освободите место и повторите попытку.</string>
+    <string name="out_of_space_dlg_text">Установка приложения %1$s не удалась. Освободите место и повторите попытку.</string>
     <string name="dlg_ok">ОК</string>
     <string name="app_not_found_dlg_title">Приложение не найдено</string>
     <string name="app_not_found_dlg_text">Приложение не найдено в списке установленных приложений.</string>
@@ -64,7 +64,7 @@
     <string name="safe_relative">Личная безопасность</string>
     <string name="privacy_relative">Доступ к личным данным</string>
     <string name="other_relative">Прочие разрешения</string>
-    <string name="perm_notice">Оповещение безопасности</string>
+    <string name="perm_notice">Предупреждение</string>
     <string name="trust_switch_dialog_msg">MIUI не будет спрашивать вашего разрешения на любые действия этого приложения.</string>
     <string name="auto_startup_dialog_msg">MIUI позволит этому приложению запускаться автоматически.</string>
     <string name="low_risk_perms">Мало опасные разрешения</string>

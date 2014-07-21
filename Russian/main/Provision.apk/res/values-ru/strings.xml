@@ -5,7 +5,7 @@
     <string name="shutdown">Выключить</string>
     <string name="other_service_label">Прочие сервисы</string>
     <string name="other_service_location">Определение местоположения</string>
-    <string name="other_service_location_summary">Разрешить картам и другим приложениям получать данные о вашем местоположении по GPS</string>
+    <string name="other_service_location_summary">Разрешить картам и другим приложениям получать данные о вашем местоположении</string>
     <string name="other_service_google_location">Сервис местоположения Google</string>
     <string name="other_service_google_location_use">Местоположение и поиск Google</string>
     <string name="other_service_google_location_use_summary">Разрешить Google использовать ваше местоположение для улучшения результатов поиска и других сервисов</string>

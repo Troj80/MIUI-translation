@@ -879,10 +879,10 @@
     <string name="memory_media_cache_usage">Кэшированные данные</string>
     <string name="sd_eject">Извлечь накопитель</string>
     <string name="sd_eject_summary">Извлечь внешний накопитель</string>
-    <string name="sd_insert_summary">Подсоедините SD карту для подключения</string>
-    <string name="sd_mount">Подключить SD карту</string>
-    <string name="sd_format">Очистить SD карту</string>
-    <string name="sd_format_summary">Очистка удалит все данные с SD карты, например, музыку и фотографии</string>
+    <string name="sd_insert_summary">Подключить накопитель</string>
+    <string name="sd_mount">Подключить накопитель</string>
+    <string name="sd_format">Очистить накопитель</string>
+    <string name="sd_format_summary">Очистка удалит все данные с накопителя, например, музыку и фотографии</string>
     <string name="memory_clear_cache_title">Очистить кэш?</string>
     <string name="memory_clear_cache_message">Удаление всех сохраненных данных для всех приложений.</string>
     <string name="mtp_ptp_mode_summary">MTP или PTP функции активны</string>
@@ -1149,12 +1149,12 @@
     <string name="filter_apps_all">Все</string>
     <string name="filter_apps_third_party">Сторонние</string>
     <string name="filter_apps_running">Работающие</string>
-    <string name="filter_apps_onsdcard">USB накопитель</string>
+    <string name="filter_apps_onsdcard">Накопитель</string>
     <string name="disabled">Отключено</string>
     <string name="not_installed">Не установлено</string>
     <string name="no_applications">Нет приложений</string>
-    <string name="internal_storage">Память приложений</string>
-    <string name="sd_card_storage">USB накопитель</string>
+    <string name="internal_storage">Внутренняя память</string>
+    <string name="sd_card_storage">Накопитель</string>
     <string name="recompute_size">Повторное вычисление размера…</string>
     <string name="clear_data_dlg_title">Удалить данные приложения?</string>
     <string name="clear_data_dlg_text">Все данные этого приложения будут удалены без возможности восстановления, включая все файлы, базы данных, настройки, аккаунты и т. д.</string>
@@ -4375,7 +4375,7 @@ Android File Transfer
     <string name="menu_item_show_more">Еще</string>
     <string name="ringtone_mute">Пусто</string>
     <string name="title_system_resource">Системные ресурсы</string>
-    <string name="resource_ringtone_volume_mute">Звук мелодии в режиме \"Без звука\"</string>
+    <string name="resource_ringtone_volume_mute">Звук мелодии отключен</string>
     <string name="audio_list_loading">Загрузка…</string>
     <string name="title_local_resource">Локальные ресурсы</string>
     <string name="online_resource_entry">Онлайн ресурсы</string>
@@ -4412,4 +4412,11 @@ Android File Transfer
 	<string name="accessibility_service_no_apps_confirm">ОК</string>
 	<string name="accessibility_service_no_apps_prompt">Бесплатное приложение TalkBack дает голосовое описание элементов интерфейса для пользователей с нарушением зрения.</string>
 	<string name="bluetooth_preference_connected_devices">Подключенные устройства</string>
+	<string name="priority_storage_app_settings">Данные будут сохранены во %1$s</string>
+	<string name="priority_storage_settings_summary">Когда SD карта не подключена, данные будут автоматически сохраняться во внутреннюю память устройства.</string>
+	<string name="priority_storage_summary">Выберите память по умолчанию для сохранения данных</string>
+	<string name="priority_storage_title">Настройки памяти</string>
+	<string name="high_performance_notif_summary">Высокое потребление батареи</string>
+	<string name="high_performance_notif_title">Режим производительности активен</string>
+	<string name="high_performance_title">Используйте режим производительности для более комфортного игрового процесса и получения лучшего результата в бенчмарках</string>
 </resources>
