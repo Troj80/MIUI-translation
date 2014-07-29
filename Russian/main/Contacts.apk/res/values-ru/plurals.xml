@@ -33,9 +33,9 @@
         <item quantity="one">Голосовые сообщения: 1</item>
      </plurals>
      <plurals name="numSelectedSimContacts">
-        <item quantity="other">Выбрано контактов: %1$d</item>
-        <item quantity="zero">Выбрано контактов: %1$d</item>
-        <item quantity="one">Выбрано контактов: %1$d</item>
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="zero">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
      </plurals>
      <plurals name="num_contacts_in_group">
         <item quantity="other">Контактов в группе %2$s: %1$d</item>

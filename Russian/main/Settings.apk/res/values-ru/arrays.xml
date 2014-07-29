@@ -395,8 +395,7 @@
     <string-array name="power_dialog_cpu_state_items">
         <item>Производительность</item>
         <item>Баланс</item>
-        <item>Энергосбережение</item>
-    </string-array>
+        </string-array>
     <string-array name="power_dialog_vibration_items">
         <item>Никогда</item>
         <item>В режиме \"Без звука\"</item>
@@ -486,9 +485,7 @@
         <item>Двойной микрофон</item>
     </string-array>
 	<string-array name="slideshow_time_entries">
-        <item>1 минута</item>
-		<item>3 минуты</item>
-		<item>5 минут</item>
+        <item>5 минут</item>
         <item>15 минут</item>
         <item>30 минут</item>
         <item>1 час</item>
@@ -563,7 +560,7 @@
         <item>8 пользователей</item>
     </string-array>
 	<string-array name="preferred_app_entries">
-        <item>Лаунчер</item>
+        <item>Рабочий стол</item>
         <item>Телефон</item>
         <item>Сообщения</item>
         <item>Браузер</item>
