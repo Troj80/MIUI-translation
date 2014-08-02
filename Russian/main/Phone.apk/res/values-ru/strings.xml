@@ -773,13 +773,13 @@
 	<string name="auto_answer_delay_entries_immediately_miui">Без задержки</string>
 	<string name="auto_answer_delay_title_miui">Задержка автоответа</string>
 	<string name="auto_answer_pref_summary_miui">Отвечать на вызовы автоматически</string>
-	<string name="auto_answer_pref_title_miui">Автоответчик</string>
+	<string name="auto_answer_pref_title_miui">Автоответ</string>
 	<string name="auto_answer_scenario_enteries_always_miui">Всегда</string>
 	<string name="auto_answer_scenario_enteries_bluetooth_only_miui">Только Bluetooth</string>
 	<string name="auto_answer_scenario_enteries_headset_bluetooth_miui">Гарнитура или Bluetooth</string>
 	<string name="auto_answer_scenario_enteries_headset_only_miui">Только гарнитура</string>
 	<string name="auto_answer_scenario_title_miui">Режим</string>
-	<string name="auto_answer_setting_title_miui">Настройки автоответчика</string>
+	<string name="auto_answer_setting_title_miui">Автоответ</string>
 	<string name="auto_country_code_miui">Добавлять код страны</string>
 	<string name="auto_country_code_sum_miui">Автоматическое добавление кода страны перед номером телефона</string>
 	<string name="autoip_miui">Авто набор IP</string>

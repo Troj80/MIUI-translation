@@ -228,7 +228,7 @@
 	<string name="traffic_saving_history_total_money">Экономия</string>
 	<string name="traffic_saving_history_total_money_unit">¥</string>
 	<string name="traffic_saving_history_total_traffic">Трафик</string>
-	<string name="traffic_saving_msg_month">За месяц: %1$s (%2$s)</string>
+	<string name="traffic_saving_msg_month">За месяц</string>
 	<string name="traffic_saving_msg_today">Сегодня</string>
 	<string name="traffic_saving_notify_start_content">За месяц: %s</string>
 	<string name="traffic_saving_notify_start_title">Экономия трафика</string>

@@ -96,7 +96,7 @@
     <string name="sign_in_info">"Статус обновления: %1$s\n%2$s пользователей установили MIUI %3$s""</string>
     <string name="sign_in_info_total_more">Статус обновления: %1$s\nБолее %2$s пользователей установили MIUI %3$s</string>
     <string name="sign_in_info_rank_more">Статус обновления: %1$s\nБолее %2$s пользователей установили MIUI %3$s</string>
-    <string name="sign_in_add_account">Активируйте ваш аккаунт Xiaomi</string>
+    <string name="sign_in_add_account">Активируйте ваш Mi аккаунт</string>
     <string name="sign_in_add_account_helper">Синхронизируйте контакты, фото и прочее между своими устройствами</string>
     <string name="my_rank">Статус обновления:</string>
     <string name="check_update">Проверить обновление</string>

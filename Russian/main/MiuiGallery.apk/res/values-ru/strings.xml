@@ -70,7 +70,7 @@
     <string name="scan_qr_code_failure">Ошибка сканирования</string>
 	<string name="cloud_camera_display_name">Камера</string>
 	<string name="cloud_gallery_no_pictures">Нет фото</string>
-	<string name="cloud_gallery_recyclebin_full">Корзина в Mi Cloud заполнена. Пожалуйста очистите корзину через сайт i.xiaomi.com.</string>
+	<string name="cloud_gallery_recyclebin_full">Корзина в Mi Cloud заполнена. Пожалуйста очистите корзину через сайт i.mi.com.</string>
 	<string name="cloud_gallery_space_full">Облачное хранилище заполнено</string>
 	<string name="share_album_space_full">Выбранный альбом заполнен</string>
 	<string name="cloud_media_set_set">Облачные альбомы</string>
@@ -549,4 +549,7 @@
 	<string name="ubifocus_refocus_map_error">Невозможно выполнить перефокусировку из-за недействительных данных</string>
 	<string name="priority_storage">Сохранение на SD карту</string>
 	<string name="priority_storage_summary">Автоматически сохранять файлы на SD карту, когда она подключена.</string>
+	<string name="crop_recognize_text">Распознать</string>
+	<string name="crop_save_text_setas">Применить</string>
+	<string name="recognizing_image">Распознование фото…</string>
 </resources>
